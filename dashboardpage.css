@@ -1,0 +1,34 @@
+.leftpane {
+    height: 812px;
+    width: 350px;
+    background-color: #131d4f;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+}
+.main {
+    height:812px;
+    width:1200px;
+    background-color: #0b112e;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+.whole {
+    display: flex;
+}
+.container-fluid {
+    height: 80px;
+}
+.to{
+    display: flex;
+    justify-content: space-evenly;
+}
+.first {
+    height:220px;
+    background-color: white;
+    width:220px;
+    color: black;
+    font-size: 12px;
+}
